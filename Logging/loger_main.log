@@ -1,0 +1,309 @@
+12/20/2022 10:57:50 AM INFO 启动了程序
+12/20/2022 10:57:50 AM INFO 开始时间 : 1671505070.383361
+12/20/2022 10:57:54 AM INFO 尝试读取文件
+12/20/2022 10:57:54 AM DEBUG 未找到文件
+12/20/2022 10:58:14 AM INFO 启动了程序
+12/20/2022 10:58:14 AM INFO 开始时间 : 1671505094.920758
+12/20/2022 10:58:18 AM INFO 尝试读取文件
+12/20/2022 10:58:18 AM DEBUG 未找到文件
+12/20/2022 11:06:46 AM INFO 启动了程序
+12/20/2022 11:06:46 AM INFO 开始时间 : 1671505606.36791
+12/20/2022 11:06:50 AM INFO 尝试读取文件
+12/20/2022 11:07:44 AM INFO 启动了程序
+12/20/2022 11:07:44 AM INFO 开始时间 : 1671505664.863425
+12/20/2022 11:07:48 AM INFO 尝试读取文件
+12/20/2022 11:07:48 AM DEBUG 未找到文件
+12/20/2022 11:07:55 AM ERROR 程序出错
+12/20/2022 11:07:59 AM INFO 本次运行时间 : 14.428400993347168
+12/20/2022 11:08:26 AM INFO 启动了程序
+12/20/2022 11:08:26 AM INFO 开始时间 : 1671505706.2379355
+12/20/2022 11:08:30 AM INFO 尝试读取文件
+12/20/2022 11:08:30 AM INFO 读取文件成功
+12/20/2022 11:14:23 AM INFO 启动了程序
+12/20/2022 11:14:23 AM INFO 开始时间 : 1671506063.6436672
+12/20/2022 11:14:27 AM INFO 尝试读取文件
+12/20/2022 11:14:27 AM INFO 读取文件成功
+12/20/2022 11:15:14 AM DEBUG Starting new HTTPS connection (1): issuecdn.baidupcs.com:443
+12/20/2022 11:15:14 AM DEBUG https://issuecdn.baidupcs.com:443 "HEAD /issue/netdisk/yunguanjia/BaiduNetdisk_7.2.8.9.exe HTTP/1.1" 200 0
+12/20/2022 11:16:51 AM INFO 启动了程序
+12/20/2022 11:16:51 AM INFO 开始时间 : 1671506211.6715488
+12/20/2022 11:16:58 AM INFO 尝试读取文件
+12/20/2022 11:16:58 AM INFO 读取文件成功
+12/20/2022 11:17:23 AM INFO 启动了程序
+12/20/2022 11:17:23 AM INFO 开始时间 : 1671506243.545872
+12/20/2022 11:17:30 AM INFO 尝试读取文件
+12/20/2022 11:17:30 AM INFO 读取文件成功
+12/20/2022 11:17:50 AM DEBUG Starting new HTTPS connection (1): issuecdn.baidupcs.com:443
+12/20/2022 11:17:50 AM DEBUG https://issuecdn.baidupcs.com:443 "HEAD /issue/netdisk/yunguanjia/BaiduNetdisk_7.2.8.9.exe HTTP/1.1" 200 0
+12/20/2022 11:17:50 AM DEBUG Starting new HTTPS connection (1): issuecdn.baidupcs.com:443
+12/20/2022 11:17:50 AM DEBUG Starting new HTTPS connection (2): issuecdn.baidupcs.com:443
+12/20/2022 11:17:50 AM DEBUG Starting new HTTPS connection (3): issuecdn.baidupcs.com:443
+12/20/2022 11:17:50 AM DEBUG Starting new HTTPS connection (4): issuecdn.baidupcs.com:443
+12/20/2022 11:17:50 AM DEBUG Starting new HTTPS connection (5): issuecdn.baidupcs.com:443
+12/20/2022 11:17:50 AM DEBUG https://issuecdn.baidupcs.com:443 "GET /issue/netdisk/yunguanjia/BaiduNetdisk_7.2.8.9.exe HTTP/1.1" 206 16777217
+12/20/2022 11:17:51 AM DEBUG https://issuecdn.baidupcs.com:443 "GET /issue/netdisk/yunguanjia/BaiduNetdisk_7.2.8.9.exe HTTP/1.1" 206 16777217
+12/20/2022 11:17:51 AM DEBUG https://issuecdn.baidupcs.com:443 "GET /issue/netdisk/yunguanjia/BaiduNetdisk_7.2.8.9.exe HTTP/1.1" 206 16777217
+12/20/2022 11:17:51 AM DEBUG https://issuecdn.baidupcs.com:443 "GET /issue/netdisk/yunguanjia/BaiduNetdisk_7.2.8.9.exe HTTP/1.1" 206 16777217
+12/20/2022 11:17:51 AM DEBUG https://issuecdn.baidupcs.com:443 "GET /issue/netdisk/yunguanjia/BaiduNetdisk_7.2.8.9.exe HTTP/1.1" 206 656696
+12/20/2022 11:37:55 AM INFO 启动了程序
+12/20/2022 11:37:55 AM INFO 开始时间 : 1671507475.9693842
+12/20/2022 11:38:02 AM INFO 尝试读取文件
+12/20/2022 11:38:02 AM INFO 读取文件成功
+12/20/2022 11:38:20 AM DEBUG Starting new HTTPS connection (1): issuecdn.baidupcs.com:443
+12/20/2022 11:38:20 AM DEBUG https://issuecdn.baidupcs.com:443 "HEAD /issue/netdisk/yunguanjia/BaiduNetdisk_7.2.8.9.exe HTTP/1.1" 200 0
+12/20/2022 11:38:20 AM DEBUG Starting new HTTPS connection (1): issuecdn.baidupcs.com:443
+12/20/2022 11:38:20 AM DEBUG Starting new HTTPS connection (2): issuecdn.baidupcs.com:443
+12/20/2022 11:38:20 AM DEBUG Starting new HTTPS connection (3): issuecdn.baidupcs.com:443
+12/20/2022 11:38:20 AM DEBUG Starting new HTTPS connection (4): issuecdn.baidupcs.com:443
+12/20/2022 11:38:20 AM DEBUG Starting new HTTPS connection (5): issuecdn.baidupcs.com:443
+12/20/2022 11:38:20 AM DEBUG https://issuecdn.baidupcs.com:443 "GET /issue/netdisk/yunguanjia/BaiduNetdisk_7.2.8.9.exe HTTP/1.1" 206 16777217
+12/20/2022 11:38:20 AM DEBUG https://issuecdn.baidupcs.com:443 "GET /issue/netdisk/yunguanjia/BaiduNetdisk_7.2.8.9.exe HTTP/1.1" 206 16777217
+12/20/2022 11:38:20 AM DEBUG https://issuecdn.baidupcs.com:443 "GET /issue/netdisk/yunguanjia/BaiduNetdisk_7.2.8.9.exe HTTP/1.1" 206 16777217
+12/20/2022 11:38:20 AM DEBUG https://issuecdn.baidupcs.com:443 "GET /issue/netdisk/yunguanjia/BaiduNetdisk_7.2.8.9.exe HTTP/1.1" 206 656696
+12/20/2022 11:38:20 AM DEBUG https://issuecdn.baidupcs.com:443 "GET /issue/netdisk/yunguanjia/BaiduNetdisk_7.2.8.9.exe HTTP/1.1" 206 16777217
+12/20/2022 12:14:45 PM INFO 启动了程序
+12/20/2022 12:14:45 PM INFO 开始时间 : 1671509685.2875142
+12/20/2022 12:14:52 PM INFO 尝试读取文件
+12/20/2022 12:14:52 PM INFO 读取文件成功
+12/27/2022 12:42:19 PM INFO 启动了程序
+12/27/2022 12:42:19 PM INFO 开始时间 : 1672116139.817008
+12/27/2022 12:42:26 PM INFO 尝试读取文件
+12/27/2022 12:42:26 PM INFO 读取文件成功
+12/27/2022 12:42:35 PM DEBUG Encoding detection: utf_8 is most likely the one.
+12/27/2022 12:42:36 PM DEBUG Starting new HTTPS connection (1): images3.alphacoders.com:443
+12/27/2022 12:42:37 PM DEBUG https://images3.alphacoders.com:443 "GET /175/175889.jpg HTTP/1.1" 200 348659
+12/27/2022 12:42:40 PM DEBUG Starting new HTTPS connection (1): images6.alphacoders.com:443
+12/27/2022 12:42:40 PM DEBUG https://images6.alphacoders.com:443 "GET /326/326020.jpg HTTP/1.1" 200 4470457
+12/27/2022 12:42:45 PM DEBUG Starting new HTTPS connection (1): images5.alphacoders.com:443
+12/27/2022 12:42:46 PM DEBUG https://images5.alphacoders.com:443 "GET /331/331193.jpg HTTP/1.1" 200 1877803
+12/27/2022 12:42:51 PM DEBUG Starting new HTTPS connection (1): images8.alphacoders.com:443
+12/27/2022 12:42:51 PM DEBUG https://images8.alphacoders.com:443 "GET /418/418515.jpg HTTP/1.1" 200 1170602
+12/27/2022 12:42:55 PM DEBUG Starting new HTTPS connection (1): images6.alphacoders.com:443
+12/27/2022 12:42:56 PM DEBUG https://images6.alphacoders.com:443 "GET /419/419386.jpg HTTP/1.1" 200 619561
+12/27/2022 12:42:58 PM DEBUG Starting new HTTPS connection (1): images5.alphacoders.com:443
+12/27/2022 12:42:59 PM DEBUG https://images5.alphacoders.com:443 "GET /422/422909.jpg HTTP/1.1" 200 675725
+12/27/2022 12:43:02 PM DEBUG Starting new HTTPS connection (1): images8.alphacoders.com:443
+12/27/2022 12:43:03 PM DEBUG https://images8.alphacoders.com:443 "GET /441/441818.jpg HTTP/1.1" 200 1026274
+12/27/2022 12:43:07 PM DEBUG Starting new HTTPS connection (1): images7.alphacoders.com:443
+12/27/2022 12:43:08 PM DEBUG https://images7.alphacoders.com:443 "GET /447/447808.jpg HTTP/1.1" 200 1429738
+12/27/2022 12:43:13 PM DEBUG Starting new HTTPS connection (1): images6.alphacoders.com:443
+12/27/2022 12:43:14 PM DEBUG https://images6.alphacoders.com:443 "GET /487/487211.jpg HTTP/1.1" 200 2716629
+12/27/2022 12:43:14 PM ERROR 程序出错
+12/27/2022 12:43:18 PM INFO 本次运行时间 : 58.65345907211304
+12/27/2022 12:47:22 PM INFO 启动了程序
+12/27/2022 12:47:22 PM INFO 开始时间 : 1672116442.845013
+12/27/2022 12:47:29 PM INFO 尝试读取文件
+12/27/2022 12:47:29 PM INFO 读取文件成功
+12/27/2022 12:48:02 PM ERROR 程序出错
+12/27/2022 12:48:06 PM INFO 本次运行时间 : 44.00556302070618
+12/27/2022 12:49:59 PM INFO 启动了程序
+12/27/2022 12:49:59 PM INFO 开始时间 : 1672116599.6935756
+12/27/2022 12:50:06 PM INFO 尝试读取文件
+12/27/2022 12:50:06 PM INFO 读取文件成功
+12/27/2022 12:50:15 PM DEBUG Encoding detection: utf_8 is most likely the one.
+12/27/2022 12:50:17 PM DEBUG Starting new HTTPS connection (1): images3.alphacoders.com:443
+12/27/2022 12:50:17 PM DEBUG https://images3.alphacoders.com:443 "GET /175/175889.jpg HTTP/1.1" 200 348659
+12/27/2022 12:50:21 PM DEBUG Starting new HTTPS connection (1): images6.alphacoders.com:443
+12/27/2022 12:50:21 PM DEBUG https://images6.alphacoders.com:443 "GET /326/326020.jpg HTTP/1.1" 200 4470457
+12/27/2022 12:50:27 PM DEBUG Starting new HTTPS connection (1): images5.alphacoders.com:443
+12/27/2022 12:50:28 PM DEBUG https://images5.alphacoders.com:443 "GET /331/331193.jpg HTTP/1.1" 200 1877803
+12/27/2022 12:50:31 PM DEBUG Starting new HTTPS connection (1): images8.alphacoders.com:443
+12/27/2022 12:50:32 PM DEBUG https://images8.alphacoders.com:443 "GET /418/418515.jpg HTTP/1.1" 200 1170602
+12/27/2022 12:50:34 PM DEBUG Starting new HTTPS connection (1): images6.alphacoders.com:443
+12/27/2022 12:50:35 PM DEBUG https://images6.alphacoders.com:443 "GET /419/419386.jpg HTTP/1.1" 200 619561
+12/27/2022 12:50:40 PM DEBUG Starting new HTTPS connection (1): images5.alphacoders.com:443
+12/27/2022 12:50:40 PM DEBUG https://images5.alphacoders.com:443 "GET /422/422909.jpg HTTP/1.1" 200 675725
+12/27/2022 12:50:43 PM DEBUG Starting new HTTPS connection (1): images8.alphacoders.com:443
+12/27/2022 12:50:44 PM DEBUG https://images8.alphacoders.com:443 "GET /441/441818.jpg HTTP/1.1" 200 1026274
+12/27/2022 12:50:48 PM DEBUG Starting new HTTPS connection (1): images7.alphacoders.com:443
+12/27/2022 12:50:49 PM DEBUG https://images7.alphacoders.com:443 "GET /447/447808.jpg HTTP/1.1" 200 1429738
+12/27/2022 12:50:54 PM DEBUG Starting new HTTPS connection (1): images6.alphacoders.com:443
+12/27/2022 12:50:55 PM DEBUG https://images6.alphacoders.com:443 "GET /487/487211.jpg HTTP/1.1" 200 2716629
+12/27/2022 12:50:55 PM ERROR 程序出错
+12/27/2022 12:50:59 PM INFO 本次运行时间 : 60.09135818481445
+12/27/2022 12:52:44 PM INFO 启动了程序
+12/27/2022 12:52:44 PM INFO 开始时间 : 1672116764.9432716
+12/27/2022 12:52:51 PM INFO 尝试读取文件
+12/27/2022 12:52:51 PM INFO 读取文件成功
+12/27/2022 12:53:10 PM DEBUG Encoding detection: utf_8 is most likely the one.
+12/27/2022 12:53:12 PM DEBUG Starting new HTTPS connection (1): images3.alphacoders.com:443
+12/27/2022 12:53:12 PM DEBUG https://images3.alphacoders.com:443 "GET /175/175889.jpg HTTP/1.1" 200 348659
+12/27/2022 12:53:18 PM DEBUG Starting new HTTPS connection (1): images6.alphacoders.com:443
+12/27/2022 12:53:18 PM DEBUG https://images6.alphacoders.com:443 "GET /326/326020.jpg HTTP/1.1" 200 4470457
+12/27/2022 12:53:23 PM DEBUG Starting new HTTPS connection (1): images5.alphacoders.com:443
+12/27/2022 12:53:23 PM DEBUG https://images5.alphacoders.com:443 "GET /331/331193.jpg HTTP/1.1" 200 1877803
+12/27/2022 12:53:27 PM DEBUG Starting new HTTPS connection (1): images8.alphacoders.com:443
+12/27/2022 12:53:28 PM DEBUG https://images8.alphacoders.com:443 "GET /418/418515.jpg HTTP/1.1" 200 1170602
+12/27/2022 12:53:30 PM DEBUG Starting new HTTPS connection (1): images6.alphacoders.com:443
+12/27/2022 12:53:31 PM DEBUG https://images6.alphacoders.com:443 "GET /419/419386.jpg HTTP/1.1" 200 619561
+12/27/2022 12:53:33 PM DEBUG Starting new HTTPS connection (1): images5.alphacoders.com:443
+12/27/2022 12:53:34 PM DEBUG https://images5.alphacoders.com:443 "GET /422/422909.jpg HTTP/1.1" 200 675725
+12/27/2022 12:53:37 PM DEBUG Starting new HTTPS connection (1): images8.alphacoders.com:443
+12/27/2022 12:53:38 PM DEBUG https://images8.alphacoders.com:443 "GET /441/441818.jpg HTTP/1.1" 200 1026274
+12/27/2022 12:53:42 PM DEBUG Starting new HTTPS connection (1): images7.alphacoders.com:443
+12/27/2022 12:53:42 PM DEBUG https://images7.alphacoders.com:443 "GET /447/447808.jpg HTTP/1.1" 200 1429738
+12/27/2022 12:53:46 PM DEBUG Starting new HTTPS connection (1): images6.alphacoders.com:443
+12/27/2022 12:53:47 PM DEBUG https://images6.alphacoders.com:443 "GET /487/487211.jpg HTTP/1.1" 200 2716629
+12/27/2022 12:53:51 PM DEBUG Starting new HTTPS connection (1): images5.alphacoders.com:443
+12/27/2022 12:53:51 PM DEBUG https://images5.alphacoders.com:443 "GET /520/520087.jpg HTTP/1.1" 200 333503
+12/27/2022 12:53:57 PM DEBUG Starting new HTTPS connection (1): images7.alphacoders.com:443
+12/27/2022 12:53:57 PM DEBUG https://images7.alphacoders.com:443 "GET /520/520426.jpg HTTP/1.1" 200 1654315
+12/27/2022 12:53:59 PM ERROR 程序出错
+12/27/2022 12:54:03 PM INFO 本次运行时间 : 78.32924365997314
+12/27/2022 01:04:04 PM INFO 启动了程序
+12/27/2022 01:04:04 PM INFO 开始时间 : 1672117444.0823722
+12/27/2022 01:04:11 PM INFO 尝试读取文件
+12/27/2022 01:04:11 PM INFO 读取文件成功
+12/27/2022 01:04:18 PM DEBUG Encoding detection: utf_8 is most likely the one.
+12/27/2022 01:04:20 PM DEBUG Starting new HTTPS connection (1): images3.alphacoders.com:443
+12/27/2022 01:04:20 PM DEBUG https://images3.alphacoders.com:443 "GET /175/175889.jpg HTTP/1.1" 200 348659
+12/27/2022 01:04:24 PM DEBUG Starting new HTTPS connection (1): images6.alphacoders.com:443
+12/27/2022 01:04:24 PM DEBUG https://images6.alphacoders.com:443 "GET /326/326020.jpg HTTP/1.1" 200 4470457
+12/27/2022 01:04:28 PM DEBUG Starting new HTTPS connection (1): images5.alphacoders.com:443
+12/27/2022 01:04:28 PM DEBUG https://images5.alphacoders.com:443 "GET /331/331193.jpg HTTP/1.1" 200 1877803
+12/27/2022 01:04:30 PM DEBUG Starting new HTTPS connection (1): images8.alphacoders.com:443
+12/27/2022 01:04:31 PM DEBUG https://images8.alphacoders.com:443 "GET /418/418515.jpg HTTP/1.1" 200 1170602
+12/27/2022 01:04:33 PM DEBUG Starting new HTTPS connection (1): images6.alphacoders.com:443
+12/27/2022 01:04:33 PM DEBUG https://images6.alphacoders.com:443 "GET /419/419386.jpg HTTP/1.1" 200 619561
+12/27/2022 01:04:35 PM DEBUG Starting new HTTPS connection (1): images5.alphacoders.com:443
+12/27/2022 01:04:36 PM DEBUG https://images5.alphacoders.com:443 "GET /422/422909.jpg HTTP/1.1" 200 675725
+12/27/2022 01:04:37 PM DEBUG Starting new HTTPS connection (1): images8.alphacoders.com:443
+12/27/2022 01:04:38 PM DEBUG https://images8.alphacoders.com:443 "GET /441/441818.jpg HTTP/1.1" 200 1026274
+12/27/2022 01:05:01 PM INFO 启动了程序
+12/27/2022 01:05:01 PM INFO 开始时间 : 1672117501.0989594
+12/27/2022 01:05:08 PM INFO 尝试读取文件
+12/27/2022 01:05:08 PM INFO 读取文件成功
+12/27/2022 01:05:23 PM DEBUG Starting new HTTPS connection (1): issuecdn.baidupcs.com:443
+12/27/2022 01:05:23 PM DEBUG https://issuecdn.baidupcs.com:443 "HEAD /issue/netdisk/yunguanjia/BaiduNetdisk_7.2.8.9.exe HTTP/1.1" 200 0
+12/27/2022 01:05:23 PM DEBUG Starting new HTTPS connection (1): issuecdn.baidupcs.com:443
+12/27/2022 01:05:23 PM DEBUG Starting new HTTPS connection (2): issuecdn.baidupcs.com:443
+12/27/2022 01:05:23 PM DEBUG Starting new HTTPS connection (3): issuecdn.baidupcs.com:443
+12/27/2022 01:05:23 PM DEBUG Starting new HTTPS connection (4): issuecdn.baidupcs.com:443
+12/27/2022 01:05:23 PM DEBUG Starting new HTTPS connection (5): issuecdn.baidupcs.com:443
+12/27/2022 01:05:23 PM DEBUG https://issuecdn.baidupcs.com:443 "GET /issue/netdisk/yunguanjia/BaiduNetdisk_7.2.8.9.exe HTTP/1.1" 206 16777217
+12/27/2022 01:05:23 PM DEBUG https://issuecdn.baidupcs.com:443 "GET /issue/netdisk/yunguanjia/BaiduNetdisk_7.2.8.9.exe HTTP/1.1" 206 16777217
+12/27/2022 01:05:23 PM DEBUG https://issuecdn.baidupcs.com:443 "GET /issue/netdisk/yunguanjia/BaiduNetdisk_7.2.8.9.exe HTTP/1.1" 206 16777217
+12/27/2022 01:05:23 PM DEBUG https://issuecdn.baidupcs.com:443 "GET /issue/netdisk/yunguanjia/BaiduNetdisk_7.2.8.9.exe HTTP/1.1" 206 656696
+12/27/2022 01:05:23 PM DEBUG https://issuecdn.baidupcs.com:443 "GET /issue/netdisk/yunguanjia/BaiduNetdisk_7.2.8.9.exe HTTP/1.1" 206 16777217
+12/27/2022 01:05:29 PM ERROR 程序出错
+12/27/2022 01:05:33 PM INFO 本次运行时间 : 32.12005424499512
+12/27/2022 01:06:58 PM INFO 启动了程序
+12/27/2022 01:06:58 PM INFO 开始时间 : 1672117618.6733959
+12/27/2022 01:07:05 PM INFO 尝试读取文件
+12/27/2022 01:07:05 PM INFO 读取文件成功
+12/27/2022 01:07:13 PM DEBUG Encoding detection: utf_8 is most likely the one.
+12/27/2022 01:07:14 PM DEBUG Starting new HTTPS connection (1): images3.alphacoders.com:443
+12/27/2022 01:07:15 PM DEBUG https://images3.alphacoders.com:443 "GET /175/175889.jpg HTTP/1.1" 200 348659
+12/27/2022 01:07:18 PM DEBUG Starting new HTTPS connection (1): images6.alphacoders.com:443
+12/27/2022 01:07:19 PM DEBUG https://images6.alphacoders.com:443 "GET /326/326020.jpg HTTP/1.1" 200 4470457
+12/27/2022 01:07:23 PM DEBUG Starting new HTTPS connection (1): images5.alphacoders.com:443
+12/27/2022 01:07:23 PM DEBUG https://images5.alphacoders.com:443 "GET /331/331193.jpg HTTP/1.1" 200 1877803
+12/27/2022 01:07:28 PM DEBUG Starting new HTTPS connection (1): images8.alphacoders.com:443
+12/27/2022 01:07:28 PM DEBUG https://images8.alphacoders.com:443 "GET /418/418515.jpg HTTP/1.1" 200 1170602
+12/27/2022 01:07:32 PM DEBUG Starting new HTTPS connection (1): images6.alphacoders.com:443
+12/27/2022 01:07:32 PM DEBUG https://images6.alphacoders.com:443 "GET /419/419386.jpg HTTP/1.1" 200 619561
+12/27/2022 01:07:35 PM DEBUG Starting new HTTPS connection (1): images5.alphacoders.com:443
+12/27/2022 01:08:27 PM INFO 启动了程序
+12/27/2022 01:08:27 PM INFO 开始时间 : 1672117707.4767706
+12/27/2022 01:08:34 PM INFO 尝试读取文件
+12/27/2022 01:08:34 PM INFO 读取文件成功
+12/27/2022 01:08:41 PM DEBUG Encoding detection: utf_8 is most likely the one.
+12/27/2022 01:08:42 PM DEBUG Starting new HTTPS connection (1): images3.alphacoders.com:443
+12/27/2022 01:08:43 PM DEBUG https://images3.alphacoders.com:443 "GET /175/175889.jpg HTTP/1.1" 200 348659
+12/27/2022 01:08:46 PM DEBUG Starting new HTTPS connection (1): images6.alphacoders.com:443
+12/27/2022 01:08:47 PM DEBUG https://images6.alphacoders.com:443 "GET /326/326020.jpg HTTP/1.1" 200 4470457
+12/27/2022 01:08:53 PM DEBUG Starting new HTTPS connection (1): images5.alphacoders.com:443
+12/27/2022 01:08:53 PM DEBUG https://images5.alphacoders.com:443 "GET /331/331193.jpg HTTP/1.1" 200 1877803
+12/27/2022 01:08:57 PM DEBUG Starting new HTTPS connection (1): images8.alphacoders.com:443
+12/27/2022 01:08:58 PM DEBUG https://images8.alphacoders.com:443 "GET /418/418515.jpg HTTP/1.1" 200 1170602
+12/27/2022 01:09:00 PM DEBUG Starting new HTTPS connection (1): images6.alphacoders.com:443
+12/27/2022 01:09:01 PM DEBUG https://images6.alphacoders.com:443 "GET /419/419386.jpg HTTP/1.1" 200 619561
+12/27/2022 01:09:04 PM DEBUG Starting new HTTPS connection (1): images5.alphacoders.com:443
+12/27/2022 01:09:05 PM DEBUG https://images5.alphacoders.com:443 "GET /422/422909.jpg HTTP/1.1" 200 675725
+12/27/2022 01:09:08 PM DEBUG Starting new HTTPS connection (1): images8.alphacoders.com:443
+12/27/2022 01:09:09 PM DEBUG https://images8.alphacoders.com:443 "GET /441/441818.jpg HTTP/1.1" 200 1026274
+12/27/2022 01:09:12 PM DEBUG Starting new HTTPS connection (1): images7.alphacoders.com:443
+12/27/2022 01:09:13 PM DEBUG https://images7.alphacoders.com:443 "GET /447/447808.jpg HTTP/1.1" 200 1429738
+12/27/2022 01:09:17 PM DEBUG Starting new HTTPS connection (1): images6.alphacoders.com:443
+12/27/2022 01:09:17 PM DEBUG https://images6.alphacoders.com:443 "GET /487/487211.jpg HTTP/1.1" 200 2716629
+12/27/2022 01:09:21 PM DEBUG Starting new HTTPS connection (1): images5.alphacoders.com:443
+12/27/2022 01:09:21 PM DEBUG https://images5.alphacoders.com:443 "GET /520/520087.jpg HTTP/1.1" 200 333503
+12/27/2022 01:09:25 PM DEBUG Starting new HTTPS connection (1): images7.alphacoders.com:443
+12/27/2022 01:09:25 PM DEBUG https://images7.alphacoders.com:443 "GET /520/520426.jpg HTTP/1.1" 200 1654315
+12/27/2022 01:09:31 PM DEBUG Starting new HTTPS connection (1): images5.alphacoders.com:443
+12/27/2022 01:09:32 PM DEBUG https://images5.alphacoders.com:443 "GET /523/523514.png HTTP/1.1" 200 2921369
+12/27/2022 01:09:37 PM DEBUG Starting new HTTPS connection (1): images8.alphacoders.com:443
+12/27/2022 01:09:38 PM DEBUG https://images8.alphacoders.com:443 "GET /550/550472.jpg HTTP/1.1" 200 568595
+12/27/2022 01:09:41 PM DEBUG Starting new HTTPS connection (1): images8.alphacoders.com:443
+12/27/2022 01:09:42 PM DEBUG https://images8.alphacoders.com:443 "GET /569/569800.jpg HTTP/1.1" 200 1475626
+12/27/2022 01:09:46 PM DEBUG Starting new HTTPS connection (1): images2.alphacoders.com:443
+12/27/2022 01:09:47 PM DEBUG https://images2.alphacoders.com:443 "GET /580/580153.jpg HTTP/1.1" 200 1426025
+12/27/2022 01:09:51 PM DEBUG Starting new HTTPS connection (1): images7.alphacoders.com:443
+12/27/2022 01:09:52 PM DEBUG https://images7.alphacoders.com:443 "GET /599/599391.jpg HTTP/1.1" 200 5082911
+12/27/2022 01:09:57 PM DEBUG Starting new HTTPS connection (1): images3.alphacoders.com:443
+12/27/2022 01:09:58 PM DEBUG https://images3.alphacoders.com:443 "GET /603/603966.png HTTP/1.1" 200 2401864
+12/27/2022 01:10:04 PM DEBUG Starting new HTTPS connection (1): images8.alphacoders.com:443
+12/27/2022 01:10:05 PM DEBUG https://images8.alphacoders.com:443 "GET /605/605291.jpg HTTP/1.1" 200 5599519
+12/27/2022 01:10:21 PM DEBUG Starting new HTTPS connection (1): images4.alphacoders.com:443
+12/27/2022 01:10:22 PM DEBUG https://images4.alphacoders.com:443 "GET /632/632636.jpg HTTP/1.1" 200 5458752
+12/27/2022 01:10:26 PM DEBUG Starting new HTTPS connection (1): images6.alphacoders.com:443
+12/27/2022 01:10:26 PM DEBUG https://images6.alphacoders.com:443 "GET /659/659052.jpg HTTP/1.1" 200 1892999
+12/27/2022 01:10:31 PM DEBUG Starting new HTTPS connection (1): images7.alphacoders.com:443
+12/27/2022 01:10:31 PM DEBUG https://images7.alphacoders.com:443 "GET /662/662810.jpg HTTP/1.1" 200 1881248
+12/27/2022 01:10:34 PM DEBUG Starting new HTTPS connection (1): images4.alphacoders.com:443
+12/27/2022 01:10:35 PM DEBUG https://images4.alphacoders.com:443 "GET /669/669547.jpg HTTP/1.1" 200 524757
+12/27/2022 01:10:40 PM DEBUG Starting new HTTPS connection (1): images.alphacoders.com:443
+12/27/2022 01:10:41 PM DEBUG https://images.alphacoders.com:443 "GET /671/671260.jpg HTTP/1.1" 200 6949005
+12/27/2022 01:10:46 PM DEBUG Starting new HTTPS connection (1): images3.alphacoders.com:443
+12/27/2022 01:10:47 PM DEBUG https://images3.alphacoders.com:443 "GET /672/672332.jpg HTTP/1.1" 200 980067
+12/27/2022 01:10:50 PM DEBUG Starting new HTTPS connection (1): images3.alphacoders.com:443
+12/27/2022 01:10:51 PM DEBUG https://images3.alphacoders.com:443 "GET /675/675177.jpg HTTP/1.1" 200 527270
+12/27/2022 01:10:54 PM DEBUG Starting new HTTPS connection (1): images7.alphacoders.com:443
+12/27/2022 01:10:55 PM DEBUG https://images7.alphacoders.com:443 "GET /677/677142.jpg HTTP/1.1" 200 381566
+12/27/2022 01:10:59 PM DEBUG Starting new HTTPS connection (1): images2.alphacoders.com:443
+12/27/2022 01:10:59 PM DEBUG https://images2.alphacoders.com:443 "GET /677/677740.jpg HTTP/1.1" 200 1040879
+12/27/2022 01:11:05 PM DEBUG Encoding detection: ascii is most likely the one.
+12/27/2022 01:11:07 PM DEBUG Starting new HTTPS connection (1): images2.alphacoders.com:443
+12/27/2022 01:11:07 PM DEBUG https://images2.alphacoders.com:443 "GET /680/680974.jpg HTTP/1.1" 200 694194
+12/27/2022 01:11:11 PM DEBUG Starting new HTTPS connection (1): images7.alphacoders.com:443
+12/27/2022 01:11:11 PM DEBUG https://images7.alphacoders.com:443 "GET /681/681197.jpg HTTP/1.1" 200 1288595
+12/27/2022 01:11:15 PM DEBUG Starting new HTTPS connection (1): images8.alphacoders.com:443
+12/27/2022 01:11:16 PM DEBUG https://images8.alphacoders.com:443 "GET /686/686600.jpg HTTP/1.1" 200 403898
+12/27/2022 01:11:20 PM DEBUG Starting new HTTPS connection (1): images.alphacoders.com:443
+12/27/2022 01:11:21 PM DEBUG https://images.alphacoders.com:443 "GET /687/687350.jpg HTTP/1.1" 200 627944
+12/27/2022 01:11:24 PM DEBUG Starting new HTTPS connection (1): images3.alphacoders.com:443
+12/27/2022 01:11:25 PM DEBUG https://images3.alphacoders.com:443 "GET /688/688444.jpg HTTP/1.1" 200 2634366
+12/27/2022 01:11:30 PM DEBUG Starting new HTTPS connection (1): images4.alphacoders.com:443
+12/27/2022 01:11:30 PM DEBUG https://images4.alphacoders.com:443 "GET /689/689178.jpg HTTP/1.1" 200 3461353
+12/27/2022 01:11:34 PM DEBUG Starting new HTTPS connection (1): images8.alphacoders.com:443
+12/27/2022 01:11:35 PM DEBUG https://images8.alphacoders.com:443 "GET /690/690099.jpg HTTP/1.1" 200 776685
+12/27/2022 01:11:40 PM DEBUG Starting new HTTPS connection (1): images3.alphacoders.com:443
+12/27/2022 01:11:40 PM DEBUG https://images3.alphacoders.com:443 "GET /690/690501.jpg HTTP/1.1" 200 2951334
+12/27/2022 01:11:44 PM DEBUG Starting new HTTPS connection (1): images6.alphacoders.com:443
+12/27/2022 01:11:45 PM DEBUG https://images6.alphacoders.com:443 "GET /690/690877.jpg HTTP/1.1" 200 783477
+12/27/2022 01:11:48 PM DEBUG Starting new HTTPS connection (1): images8.alphacoders.com:443
+12/27/2022 01:11:49 PM DEBUG https://images8.alphacoders.com:443 "GET /691/691339.jpg HTTP/1.1" 200 559142
+12/27/2022 01:11:52 PM DEBUG Starting new HTTPS connection (1): images4.alphacoders.com:443
+12/27/2022 01:11:53 PM DEBUG https://images4.alphacoders.com:443 "GET /692/692519.jpg HTTP/1.1" 200 921530
+12/27/2022 01:11:58 PM DEBUG Starting new HTTPS connection (1): images3.alphacoders.com:443
+12/27/2022 01:11:59 PM DEBUG https://images3.alphacoders.com:443 "GET /692/692635.jpg HTTP/1.1" 200 3167609
+12/27/2022 01:12:03 PM DEBUG Starting new HTTPS connection (1): images2.alphacoders.com:443
+12/27/2022 01:12:04 PM DEBUG https://images2.alphacoders.com:443 "GET /692/692649.jpg HTTP/1.1" 200 487419
+12/27/2022 01:12:07 PM DEBUG Starting new HTTPS connection (1): images3.alphacoders.com:443
+12/27/2022 01:12:08 PM DEBUG https://images3.alphacoders.com:443 "GET /692/692667.jpg HTTP/1.1" 200 523595
+12/27/2022 01:12:12 PM DEBUG Starting new HTTPS connection (1): images4.alphacoders.com:443
+12/27/2022 01:12:13 PM DEBUG https://images4.alphacoders.com:443 "GET /692/692750.jpg HTTP/1.1" 200 1056924
+12/27/2022 01:12:17 PM DEBUG Starting new HTTPS connection (1): images7.alphacoders.com:443
+12/27/2022 01:12:18 PM DEBUG https://images7.alphacoders.com:443 "GET /693/693230.jpg HTTP/1.1" 200 7488609
+12/27/2022 01:12:23 PM DEBUG Starting new HTTPS connection (1): images7.alphacoders.com:443
+12/27/2022 01:12:23 PM DEBUG https://images7.alphacoders.com:443 "GET /693/693310.jpg HTTP/1.1" 200 792060
+12/27/2022 01:12:28 PM DEBUG Starting new HTTPS connection (1): images.alphacoders.com:443
+12/27/2022 01:12:29 PM DEBUG https://images.alphacoders.com:443 "GET /693/693521.jpg HTTP/1.1" 200 3257597
+12/27/2022 01:12:34 PM DEBUG Starting new HTTPS connection (1): images.alphacoders.com:443
+12/27/2022 01:12:35 PM DEBUG https://images.alphacoders.com:443 "GET /694/694521.jpg HTTP/1.1" 200 1533968
+12/27/2022 01:12:39 PM DEBUG Starting new HTTPS connection (1): images2.alphacoders.com:443
+12/27/2022 01:12:39 PM DEBUG https://images2.alphacoders.com:443 "GET /694/694639.jpg HTTP/1.1" 200 412787
+12/27/2022 01:12:42 PM DEBUG Starting new HTTPS connection (1): images.alphacoders.com:443
+12/27/2022 01:12:42 PM DEBUG https://images.alphacoders.com:443 "GET /694/694646.jpg HTTP/1.1" 200 580213
+12/27/2022 04:19:43 PM INFO 启动了程序
+12/27/2022 04:19:43 PM INFO 开始时间 : 1672129183.5936713
